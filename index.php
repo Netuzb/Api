@@ -3,8 +3,8 @@
 va Ramazon oyi munosabati bilan bepul tarqatildi.
 Barchamizga yaqinlashib kelayotgan Muborak Ramazon oyi qutlug' bo'lsin! Omin 🤲 */
 
-$admin = '898966190'; // Admin ID
-$token = 'BOT_TOKEN';  //Bot token
+$admin = 605778538'; // Admin ID
+$token = '877862432:AAEyCvOkzVlSv3SSF2bK793WjXCmTYvoPNo';  //Bot token
 
 function bot($method,$datas=[]){
 global $token;
